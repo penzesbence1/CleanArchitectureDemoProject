@@ -1,0 +1,11 @@
+D:\1Sulesz\5.félév\Szerveroldali\Mappa\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\1Sulesz\5.félév\Szerveroldali\Mappa\Domain\bin\Debug\net8.0\Domain.dll
+D:\1Sulesz\5.félév\Szerveroldali\Mappa\Domain\bin\Debug\net8.0\Domain.pdb
+D:\1Sulesz\5.félév\Szerveroldali\Mappa\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\1Sulesz\5.félév\Szerveroldali\Mappa\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\1Sulesz\5.félév\Szerveroldali\Mappa\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\1Sulesz\5.félév\Szerveroldali\Mappa\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\1Sulesz\5.félév\Szerveroldali\Mappa\Domain\obj\Debug\net8.0\Domain.dll
+D:\1Sulesz\5.félév\Szerveroldali\Mappa\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\1Sulesz\5.félév\Szerveroldali\Mappa\Domain\obj\Debug\net8.0\Domain.pdb
+D:\1Sulesz\5.félév\Szerveroldali\Mappa\Domain\obj\Debug\net8.0\ref\Domain.dll
